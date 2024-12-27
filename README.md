@@ -6,6 +6,3 @@ verify their identity, even with variations in appearance (e.g., lighting, facia
 3. Alert Generation: Trigger an email alert with a snapshot if an unknown person is detected or the 
 owner is not recognized, notifying relevant parties of the situation.
 
-
-
-
