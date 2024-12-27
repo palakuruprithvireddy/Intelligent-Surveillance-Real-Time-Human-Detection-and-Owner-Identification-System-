@@ -28,7 +28,7 @@ owner_label = "Owner"
 # Email Alert Setup
 EMAIL_FROM = "prithvireddy27945@gmail.com"  # Your email
 EMAIL_TO = "prithvireddy27945@gmail.com"  # Recipient email
-EMAIL_PASSWORD = "ofuj uqve ohre dvab"  # App password
+EMAIL_PASSWORD = "your 16bit password generated for your app in gmail "  # App password
 
 def setup_email():
     """Set up the SMTP server and email login details."""
