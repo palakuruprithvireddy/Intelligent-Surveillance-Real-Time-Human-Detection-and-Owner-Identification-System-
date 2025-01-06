@@ -5,7 +5,7 @@ import os
 from ultralytics import YOLO
 
 # Path for face image database
-path = '/Users/prithvireddy/Documents/MLGroupProject/new_preprocessed_images'
+path = '/Users/prithvireddy/Documents/MLProject/new_preprocessed_images'
 
 # Load the YOLOv11 model
 #model = torch.load('yolo11n.pt', map_location='cpu')
